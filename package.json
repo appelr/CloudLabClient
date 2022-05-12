@@ -7,6 +7,7 @@
     "clean": "rm -rf ./node_modules/"
   },
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^0.27.2",
+    "console-table-printer": "^2.11.0"
   }
 }
