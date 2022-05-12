@@ -1,0 +1,12 @@
+{
+  "name": "cloudlabclient",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js",
+    "clean": "rm -rf ./node_modules/"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
